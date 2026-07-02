@@ -1,0 +1,21 @@
+/* App.css cleared to prevent styling conflicts - all styling is managed in index.css */
+:root {
+  /* Soft Slate background with light indigo glow at the top */
+  --bg-color: #f8fafc;
+  --bg-gradient: radial-gradient(circle at 50% 0%, #e0e7ff 0%, #f8fafc 70%);
+  
+  /* Translucent white glass panel elements */
+  --panel-bg: rgba(255, 255, 255, 0.7);
+  --panel-border: rgba(99, 102, 241, 0.12);
+  --panel-border-hover: rgba(99, 102, 241, 0.4);
+  
+  /* Dark text colors for high readability */
+  --text-primary: #0f172a;     /* Main titles & text */
+  --text-secondary: #475569;   /* Sub-labels & description */
+  --text-muted: #64748b;       /* Footers & placeholder details */
+
+  /* Softened shadow glows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 8px 32px rgba(99, 102, 241, 0.08);
+  --shadow-glow: 0 0 30px rgba(99, 102, 241, 0.15);
+}
