@@ -71,7 +71,7 @@ export default function App() {
             <Flame className="logo-icon-img" size={24} />
           </div>
           <div>
-            <h1 className="app-title">OptiSuite</h1>
+            <h1 className="app-title">Free Online Tools</h1>
             <p className="app-tagline">Dev & Design Utility Toolbox</p>
           </div>
         </a>
@@ -154,7 +154,7 @@ export default function App() {
       </main>
 
       <footer className="app-footer print-hide">
-        <p>&copy; {new Date().getFullYear()} OptiSuite. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} FreeTools. All rights reserved.</p>
         <p className="footer-candidate">Developed by Karan Mhaske | karanmhaske3050@gmail.com</p>
       </footer>
     </>

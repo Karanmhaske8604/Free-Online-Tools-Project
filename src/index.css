@@ -68,7 +68,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(99, 102, 241, 0.5);
+  background: rgba(218, 218, 230, 0.5);
 }
 
 /* Main Container Layout */
@@ -139,7 +139,7 @@ p {
   width: 44px;
   height: 44px;
   border-radius: var(--radius-sm);
-  background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+  background: linear-gradient(135deg, #605acc 0%, #7c3aed 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -156,7 +156,7 @@ p {
   font-weight: 800;
   line-height: 1;
   margin-bottom: 0.15rem;
-  background: linear-gradient(to right, #0f172a, #475569);
+  background: linear-gradient(to right, #96b1f0, #8b9db7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -178,7 +178,7 @@ p {
 }
 
 .glass-panel:hover {
-  border-color: rgba(99, 102, 241, 0.25);
+  border-color: rgba(154, 155, 172, 0.25);
   box-shadow: var(--shadow-sm);
 }
 
@@ -191,7 +191,7 @@ p {
 .dashboard-title-row h2 {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
-  background: linear-gradient(to right, #0f172a, #475569);
+  background: linear-gradient(to right, #787d87, #eff0f1);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
